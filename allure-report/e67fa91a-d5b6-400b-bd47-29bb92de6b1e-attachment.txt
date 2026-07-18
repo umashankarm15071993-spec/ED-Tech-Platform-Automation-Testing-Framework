@@ -1,0 +1,4 @@
+[32mINFO    [0m GuviProject:test_home_page.py:13 **** TC01- Verify Application Url Started ****
+[32mINFO    [0m GuviProject:test_home_page.py:14 **** Application  Started ****
+[32mINFO    [0m GuviProject:test_home_page.py:16 **** Validate The URL ****
+[32mINFO    [0m GuviProject:test_home_page.py:18 **** TC-01-Passed ****

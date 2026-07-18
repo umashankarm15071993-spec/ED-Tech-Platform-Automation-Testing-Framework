@@ -1,0 +1,5 @@
+[32mINFO    [0m GuviProject:test_home_page.py:43 **** TC04- verify Signin Button ****
+[32mINFO    [0m GuviProject:test_home_page.py:44 **** Application  Started ****
+[32mINFO    [0m GuviProject:test_home_page.py:47 **** Validate The Home Page Signin Button Visible  ****
+[32mINFO    [0m GuviProject:test_home_page.py:50 **** Validate The Home Page Sign Button Clickable ****
+[32mINFO    [0m GuviProject:test_home_page.py:52 **** TC-04-Passed ****

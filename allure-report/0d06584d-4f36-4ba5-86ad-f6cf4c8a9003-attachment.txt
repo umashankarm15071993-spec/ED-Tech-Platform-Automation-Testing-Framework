@@ -1,0 +1,32 @@
+[32mINFO    [0m GuviProject:test_login_page.py:34 ******** TC07 - Verify Invalid Login Started ********
+[32mINFO    [0m GuviProject:test_login_page.py:37 **** Click the Homepage Login Button ****
+[32mINFO    [0m GuviProject:test_login_page.py:42 Executing Test Data Row : 2
+[32mINFO    [0m GuviProject:test_login_page.py:45 Entering Username : None
+[32mINFO    [0m GuviProject:test_login_page.py:46 Entering Password : Testing@123
+[32mINFO    [0m GuviProject:test_login_page.py:50 Clicking Login Button
+[32mINFO    [0m GuviProject:test_login_page.py:56 **** Validate Title ****
+[32mINFO    [0m GuviProject:test_login_page.py:58 ******** TC07 Passed ********
+[32mINFO    [0m GuviProject:test_login_page.py:42 Executing Test Data Row : 3
+[32mINFO    [0m GuviProject:test_login_page.py:45 Entering Username : umashankarm15071993@gmailcom
+[32mINFO    [0m GuviProject:test_login_page.py:46 Entering Password : None
+[32mINFO    [0m GuviProject:test_login_page.py:50 Clicking Login Button
+[32mINFO    [0m GuviProject:test_login_page.py:56 **** Validate Title ****
+[32mINFO    [0m GuviProject:test_login_page.py:58 ******** TC07 Passed ********
+[32mINFO    [0m GuviProject:test_login_page.py:42 Executing Test Data Row : 4
+[32mINFO    [0m GuviProject:test_login_page.py:45 Entering Username : umashankarm15071993
+[32mINFO    [0m GuviProject:test_login_page.py:46 Entering Password : Testing@123
+[32mINFO    [0m GuviProject:test_login_page.py:50 Clicking Login Button
+[32mINFO    [0m GuviProject:test_login_page.py:56 **** Validate Title ****
+[32mINFO    [0m GuviProject:test_login_page.py:58 ******** TC07 Passed ********
+[32mINFO    [0m GuviProject:test_login_page.py:42 Executing Test Data Row : 5
+[32mINFO    [0m GuviProject:test_login_page.py:45 Entering Username : umashankarm15071993@gmailcom
+[32mINFO    [0m GuviProject:test_login_page.py:46 Entering Password : Testing
+[32mINFO    [0m GuviProject:test_login_page.py:50 Clicking Login Button
+[32mINFO    [0m GuviProject:test_login_page.py:56 **** Validate Title ****
+[32mINFO    [0m GuviProject:test_login_page.py:58 ******** TC07 Passed ********
+[32mINFO    [0m GuviProject:test_login_page.py:42 Executing Test Data Row : 6
+[32mINFO    [0m GuviProject:test_login_page.py:45 Entering Username : wrong@gmail.com
+[32mINFO    [0m GuviProject:test_login_page.py:46 Entering Password : wrong@123
+[32mINFO    [0m GuviProject:test_login_page.py:50 Clicking Login Button
+[32mINFO    [0m GuviProject:test_login_page.py:56 **** Validate Title ****
+[32mINFO    [0m GuviProject:test_login_page.py:58 ******** TC07 Passed ********

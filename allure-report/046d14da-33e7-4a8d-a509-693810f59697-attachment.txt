@@ -1,0 +1,8 @@
+[32mINFO    [0m GuviProject:test_login_page.py:17 ******** TC06 - verify valid login *******
+[32mINFO    [0m GuviProject:test_login_page.py:18 **** Application Lunch the Url ****
+[32mINFO    [0m GuviProject:test_login_page.py:21 **** Click the Homepage Login Button ****
+[32mINFO    [0m GuviProject:test_login_page.py:23 **** Enter The Valid Email ****
+[32mINFO    [0m GuviProject:test_login_page.py:25 **** Enter The Valid Password ****
+[32mINFO    [0m GuviProject:test_login_page.py:27 **** Click Login Button ****
+[32mINFO    [0m GuviProject:test_login_page.py:29 **** Validate the expected URL ****
+[32mINFO    [0m GuviProject:test_login_page.py:31 **** TC-06-Passed ****

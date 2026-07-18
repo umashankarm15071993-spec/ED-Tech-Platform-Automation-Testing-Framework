@@ -1,0 +1,5 @@
+[32mINFO    [0m GuviProject:test_sign_up.py:11 **** TC05- Verify Signup Button ****
+[32mINFO    [0m GuviProject:test_sign_up.py:12 **** Application Started ****
+[32mINFO    [0m GuviProject:test_sign_up.py:14 **** Click Signup Button ****
+[32mINFO    [0m GuviProject:test_sign_up.py:16 **** Validate Signup Button ****
+[32mINFO    [0m GuviProject:test_sign_up.py:18 **** TC-05-Passed ****

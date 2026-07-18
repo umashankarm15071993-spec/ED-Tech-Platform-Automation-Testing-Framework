@@ -1,0 +1,9 @@
+[32mINFO    [0m GuviProject:test_login_page.py:61 ******** TC10 - Verify Logout Successful *******
+[32mINFO    [0m GuviProject:test_login_page.py:65 **** Enter The Valid Email ****
+[32mINFO    [0m GuviProject:test_login_page.py:67 **** Enter The Valid Password ****
+[32mINFO    [0m GuviProject:test_login_page.py:69 **** Click Login Button ****
+[32mINFO    [0m GuviProject:test_login_page.py:71 **** Verify Logout Successful ****
+[1m[31mERROR   [0m GuviProject:Basepage.py:22 Error While Clicking:Message: 
+
+[32mINFO    [0m GuviProject:test_login_page.py:73 **** Verify Logout Redirected expected URL ****
+[32mINFO    [0m GuviProject:test_login_page.py:75 **** TC-10-Passed ****

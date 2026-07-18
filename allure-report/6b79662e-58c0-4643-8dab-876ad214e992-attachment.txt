@@ -1,0 +1,5 @@
+[32mINFO    [0m GuviProject:test_home_page.py:31 **** TC03- Verify Login Button  ****
+[32mINFO    [0m GuviProject:test_home_page.py:32 **** Application  Started ****
+[32mINFO    [0m GuviProject:test_home_page.py:34 **** Validate The Home Page Login Button Visible ****
+[32mINFO    [0m GuviProject:test_home_page.py:37 **** Validate The Home Page Login Button Clickable ****
+[32mINFO    [0m GuviProject:test_home_page.py:39 **** TC-03-Passed ****

@@ -1,0 +1,3 @@
+[32mINFO    [0m GuviProject:test_home_page.py:22 **** TC02- Verify Title ****
+[32mINFO    [0m GuviProject:test_home_page.py:23 **** Application  Started ****
+[32mINFO    [0m GuviProject:test_home_page.py:25 **** Validate The Title of the Page ****

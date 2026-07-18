@@ -1,0 +1,11 @@
+BASE_URL = "https://www.guvi.in/"
+IMPLICITLY_WAIT ="10"
+EXPLICIT_WAIT ="10"
+VALID_EMAIL ="umashankarm15071993@gmail.com"
+VALID_PASSWORD ="Testing@123"
+EXPECTED_TITLE ="GUVI | Learn to code in your native language"
+LOGIN_PAGE_URL = "https://www.guvi.in/sign-in/?sourceUri=http%3A%2F%2Fwww.guvi.in%2F"
+SIGNUP_PAGE_URL="https://www.guvi.in/register/?sourceUri=http%3A%2F%2Fwww.guvi.in%2F"
+DASHBOARD_URL="https://www.guvi.in/"
+PATH= "/testdata/testadata.xlsx"
+

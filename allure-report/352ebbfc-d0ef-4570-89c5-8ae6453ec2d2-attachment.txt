@@ -1,0 +1,4 @@
+[32mINFO    [0m GuviProject:test_home_page.py:64 **** TC09- verify ChatBot ****
+[32mINFO    [0m GuviProject:test_home_page.py:65 **** Application  Started ****
+[32mINFO    [0m GuviProject:test_home_page.py:67 **** Validate The Chat Board ****
+[32mINFO    [0m GuviProject:test_home_page.py:69 **** TC-09-Passed ****
